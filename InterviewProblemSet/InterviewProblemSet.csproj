@@ -83,7 +83,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayFunctions.cs" />
-    <Compile Include="ArrayFunctionsFeature.cs" />
+    <Compile Include="ArrayFunctionsTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

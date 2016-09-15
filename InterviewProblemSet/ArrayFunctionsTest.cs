@@ -4,7 +4,7 @@ using Xbehave;
 
 namespace InterviewProblemSet
 {
-    public class ArrayFunctionsFeature
+    public class ArrayFunctionsTest
     {
         [Scenario]
         //note: Example attribute is a scenario outline where the
